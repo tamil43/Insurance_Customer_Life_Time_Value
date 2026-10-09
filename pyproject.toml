@@ -1,7 +1,7 @@
 [project]
 name = "cltv-insurance"
 version = "0.1.0"
-description = "Add your description here"
+description = "Machine learning predictive modeling for motor insurance Customer Lifetime Value (CLTV) using LightGBM and XGBoost"
 readme = "README.md"
 requires-python = ">=3.12.10"
 dependencies = [
